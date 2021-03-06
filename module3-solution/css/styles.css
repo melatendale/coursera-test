@@ -1,0 +1,32 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+  border-radius:0px;
+  background-color:#ffc14d;
+}
+.a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+#nav-list{
+  font-size: 25px;
+}
+.navbar-brand{
+  font-size: 40px;
+  font-weight: bold;
+  }
+.jumbotron{
+    margin: 0px 55px 0px 55px;
+    padding: 30px;
+    background-color:#ffc14d;
+  }
+  h1{
+    font-weight: bold;
+  }
+  h2{
+    margin:0px;
+    margin-bottom:10px;
+    font-weight:bold;
+  }
